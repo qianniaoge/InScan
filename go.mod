@@ -15,6 +15,6 @@ require (
 	github.com/shirou/gopsutil/v3 v3.21.3
 	github.com/stacktitan/smb v0.0.0-20190531122847-da9a425dceb8
 	go.mongodb.org/mongo-driver v1.5.1
-	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
-	golang.org/x/text v0.3.5
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/text v0.3.8
 )
